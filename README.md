@@ -16,7 +16,4 @@ Criteria:
 - Keyboard interaction
       Using the left and right arrow key will move the sun and
       change the colour of the sky
-*/
 
-
-<iframe src="https://editor.p5js.org/shjiz2534/full/XX-1I6lJW"></iframe>
